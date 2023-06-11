@@ -1,1 +1,2 @@
 # prototype-voice-assistant-using-python
+Built a prototype voice assistant that can understand and respond to voice commands. The assistant utilizes various packages like pyttsx3, speech_recognition, and randfacts to perform tasks such as playing songs on YouTube, searching information on Wikipedia, reading news, sharing random facts, and telling jokes. It also provides weather information and greets the user based on the time of day.
